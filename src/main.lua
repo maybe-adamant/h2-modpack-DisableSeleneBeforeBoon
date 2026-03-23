@@ -48,7 +48,7 @@ end
 public.definition = {
     id       = "DisableSeleneBeforeBoon",
     name     = "Disable Selene Before First Boon",
-    category = "RunModifiers",
+    category = "Run Modifiers",
     group    = "NPCs & Routing",
     tooltip  = "Prevents Selene from spawning before the first boon is obtained.",
     default  = false,
